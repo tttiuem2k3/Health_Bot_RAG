@@ -2,7 +2,10 @@
 
 > A Vietnamese health-assistant project that combines **RAG, Large Language Models, voice processing and IoT integration** to answer disease-related questions from a curated knowledge base.
 
-<p align="center">\n  <img src="./docs/images/readme_overview.svg" width="100%" alt="Vietnamese Health Assistant with RAG + Voice/IoT overview">\n</p>\n
+<p align="center">
+  <img src="./docs/images/readme_overview.svg" width="100%" alt="Vietnamese Health Assistant with RAG + Voice/IoT overview">
+</p>
+
 ---
 
 ## 📌 Introduction
